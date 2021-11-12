@@ -4,7 +4,9 @@ a_and_algo, all_wordsim, glove100Dcomparison, glove200Dcomparison, glove300Dcomp
 and main.
 
 For running the project, you have to have a python interpretor with the
-libraries listed in requirements.txt installed.
+libraries listed in requirements.txt installed. You also need to download 
+the original pre-trained glove embeddings which you can download from
+https://nlp.stanford.edu/projects/glove/.
 
 For reproducing all results from the report, run the main.py script. This script
 will print all results to the main.txt. This scirpt will take a while when running
